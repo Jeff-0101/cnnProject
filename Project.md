@@ -45,7 +45,8 @@ $\color{red}{\text{訓練資料百分率設定為70%，30%用來驗證資料}}$�
 | :--- |
 | ▲輸入層的修改(SqueezeNet) |
 
-2.改變$\color{red}{\text{最後一個卷積層}}$
+2.改變
+$\color{red}{\text{最後一個卷積層}}$
 ，將參數調成此次訓練的資料對應的大小、數值
 | <img width="299" height="428" alt="image" src="https://github.com/user-attachments/assets/2220726d-0cf2-4ff3-9c19-850be826764b" /> |
 | :--- |
